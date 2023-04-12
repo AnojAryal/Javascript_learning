@@ -1,6 +1,7 @@
 console.log("Hi");
 
-//to print same statement for 110 times
+//to print same statement for 10 times
+//initalize , condition , increment/decrement
 
 let i = 1;
 
